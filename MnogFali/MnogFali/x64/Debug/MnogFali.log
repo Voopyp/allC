@@ -1,0 +1,9 @@
+﻿  MnogFali.cpp
+  MyClass.cpp
+C:\Users\antii\source\repos\MnogFali\MnogFali\MnogFali.cpp(11,7): error C2660: MyClass::PrintMassage: функция не принимает 0 аргументов
+      C:\Users\antii\source\repos\MnogFali\MnogFali\MyClass.h(7,7):
+       см. объявление "MyClass::PrintMassage"
+      C:\Users\antii\source\repos\MnogFali\MnogFali\MnogFali.cpp(11,7):
+      при попытке сопоставить список аргументов "()"
+  
+  Создание кода...
