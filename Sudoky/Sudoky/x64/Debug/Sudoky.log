@@ -1,0 +1,3 @@
+﻿  Sudoky.cpp
+C:\Users\antii\source\repos\Sudoky\Sudoky\Sudoky.cpp(54,1): warning C4715: UsedInCol: значение возвращается не при всех путях выполнения
+  Sudoky.vcxproj -> C:\Users\antii\source\repos\Sudoky\x64\Debug\Sudoky.exe
